@@ -6,3 +6,4 @@ Biopython: https://biopython.org/
  <br/>
  
 ![image](https://user-images.githubusercontent.com/36698076/115938181-ffc25280-a456-11eb-8291-964fdddc065b.png)
+https://www.kdnuggets.com/2020/04/coronavirus-covid-19-genome-analysis-biopython.html
